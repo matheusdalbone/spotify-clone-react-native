@@ -1,0 +1,50 @@
+{
+  "bestArtists": [
+
+    {
+      "title": "This is Joji. Todos os maiores hits em uma só playlist.",
+      "url": "https://thisis-images.scdn.co/37i9dQZF1DZ06evO2cV1FC-large.jpg"
+    },
+
+    {
+      "title": "This is $uicideboy$. Todos os maiores hits em uma só playlist.",
+      "url": "https://th.bing.com/th/id/OIP.K_mb2t_nRZ7iJ96U_9pfnwAAAA?rs=1&pid=ImgDetMain"
+    },
+
+    {
+      "title": "This is Mc Carol. Todos os maiores hits em uma só playlist.",
+      "url": "https://th.bing.com/th/id/OIP.uO4bH2kvBQXbsL9t2KlcPAHaHa?rs=1&pid=ImgDetMain"
+    },
+
+    {
+      "title": "This is Camemallia. Todos os maiores hits em uma só playlist.",
+      "url": "https://thisis-images.scdn.co/37i9dQZF1DZ06evO2rGtI1-large.jpg"
+    }
+
+  ],
+
+  "stations": [
+
+    {
+      "title": "Arctic Monkeys, The Neighbourhood, Cigarette After Sex.",
+      "url": "https://seeded-session-images.scdn.co/v2/img/122/secondary/artist/77SW9BnxLY8rJ0RciFqkHh/en"
+    },
+
+    {
+      "title": "Steve Lacy, Clairo, girl in red, Wallows, Beach House.",
+      "url": "https://seeded-session-images.scdn.co/v2/img/122/secondary/artist/3l0CmX0FuQjFxr8SK7Vqag/en"
+    },
+
+    {
+      "title": "Lana Del Rey, Arctic Monkeys, Cigarettes After Sex.",
+      "url": "https://seeded-session-images.scdn.co/v2/img/122/secondary/artist/1QAJqy2dA3ihHBFIHRphZj/en"
+    },
+
+    {
+      "title": "Arctic Monkeys, Mitski, Cigarettes After Sex, Steve Lacy, d4vd",
+      "url": "https://seeded-session-images.scdn.co/v2/img/122/secondary/artist/5y8tKLUfMvliMe8IKamR32/en"
+    }
+
+  ]
+
+}
